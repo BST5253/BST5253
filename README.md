@@ -1,7 +1,7 @@
 ## Hi there, Burhanuddin Tinwala aka BST here 👋
 
 # 💫 About Me:
-🔭 I’m currently open for Full Stack Developer roles.<br>👯 Open to collaborate with like-minded <br>peoples who works in Full Stack Web Development.<br>🌱 I’m currently learning Back-end development using Laravel.<br>💬 Ask me about MERN Stack and PHP Laravel.<br>⚡ A developer who doesn't consume coffee.
+🔭 I’m currently open for Full Stack Developer roles.<br>👯 Open to collaborate with like-minded peoples who works in Full Stack Web Development.<br>🌱 I’m currently learning Back-end development using Laravel.<br>💬 Ask me about MERN Stack and PHP Laravel.<br>⚡ A developer who doesn't consume coffee.
 
 
 ## 🌐 Socials:

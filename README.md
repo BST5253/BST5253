@@ -55,10 +55,6 @@ Final year **Computer Science Engineering** student with professional experience
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BST5253&theme=radical" alt="Burhanuddin's GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BST5253&layout=compact&theme=radical" alt="Burhanuddin's Top Languages" />
 </div>
 

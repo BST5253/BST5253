@@ -92,6 +92,7 @@ A responsive portfolio website built with Next.js and TailwindCSS.
 
 - Advanced React Patterns
 - Next.js App Router
+- Learning TypeScript for better type safety in React applications
 
 ## 📫 How to Reach Me
 

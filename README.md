@@ -6,7 +6,7 @@
 
 ## 💻 Full Stack Developer | Frontend Specialist
 
-Final year **Computer Science Engineering** student with professional experience in frontend development. Currently working as a **Frontend Developer** at **WRTeam Pvt. Ltd**, where I build responsive and intuitive user interfaces that deliver exceptional user experiences.
+A **Computer Science Engineering** passout with experience in frontend development. Currently working as a **Frontend Developer** at **WRTeam Pvt. Ltd**, where I build responsive and intuitive user interfaces that deliver exceptional user experiences.
 
 ## 🚀 Tech Stack
 
@@ -81,7 +81,7 @@ A responsive portfolio website built with Next.js and TailwindCSS.
 ## 📚 Education
 
 - **BE in Computer Science**  
-  Gujarat Technological University | Expected Graduation: July 2025
+  Gujarat Technological University | Graduated: July 2025
 
 ## 💼 Experience
 

@@ -4,9 +4,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://bst-portfolio.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burhan.s.tinwala@gmail.com)
 
-## 💻 Full Stack Developer | Frontend Specialist
+## 💻 Full Stack Developer | A frontend dev by day, a backend dev by night
 
-A **Computer Science Engineering** passout with experience in frontend development. Currently working as a **Frontend Developer** at **WRTeam Pvt. Ltd**, where I build responsive and intuitive user interfaces that deliver exceptional user experiences.
+A **Computer Science Engineering** passout with 1 year of experience in frontend development. Currently working as a **Frontend Developer** at **WRTeam Pvt. Ltd**, where I build responsive and intuitive user interfaces that deliver exceptional user experiences.
 
 ## 🚀 Tech Stack
 
@@ -48,16 +48,6 @@ A **Computer Science Engineering** passout with experience in frontend developme
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="github-actions"/>
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BST5253&show_icons=true&theme=radical" alt="Burhanuddin's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BST5253&layout=compact&theme=radical" alt="Burhanuddin's Top Languages" />
-</div>
-
 ## 🔭 Featured Projects
 
 ### Project 1: A Full-Stack Chat Web App
@@ -85,31 +75,20 @@ A responsive portfolio website built with Next.js and TailwindCSS.
 
 ## 💼 Experience
 
-- **Frontend Developer** | WRTeam Pvt. Ltd | Present  
-  Developing responsive web applications, implementing UI/UX designs, collaborating with cross-functional teams.
+-   **Frontend Developer** | WRTeam Pvt. Ltd | Present  
+    Developing responsive web applications, implementing UI/UX designs, collaborating with cross-functional teams.
 
 ## 🌱 Currently Learning
 
-- Advanced React Patterns
-- Next.js App Router
-- Learning TypeScript for better type safety in React applications
+-   Advanced React Patterns
+-   Next.js App Router
+-   Learning TypeScript for better type safety in React applications
+-   Backend development with Node.js and Express
 
 ## 📫 How to Reach Me
 
 Feel free to reach out for collaborations or just a chat!
 
-- Email: [burhan.s.tinwala@gmail.com](mailto:burhan.s.tinwala@gmail.com)
-- LinkedIn: [Burhanuddin Tinwala](https://www.linkedin.com/in/burhanuddintinwala)
-- Portfolio: [bst-portfolio.vercel.app](https://bst-portfolio.vercel.app)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BST5253&color=blue" alt="Profile Views" />
-</div>
-
-<div align="center">
-  
-  ### Show some ❤️ by starring some of the repositories!
-  
-</div>
+-   Email: [burhan.s.tinwala@gmail.com](mailto:burhan.s.tinwala@gmail.com)
+-   LinkedIn: [Burhanuddin Tinwala](https://www.linkedin.com/in/burhanuddintinwala)
+-   Portfolio: [bst-portfolio.vercel.app](https://bst-portfolio.vercel.app)

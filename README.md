@@ -82,7 +82,7 @@ A responsive portfolio website built with Next.js and TailwindCSS.
 
 -   Advanced React Patterns
 -   Next.js App Router
--   Learning TypeScript for better type safety in React applications
+-   Learning TypeScript for better type safety in React and NextJS applications
 -   Backend development with Node.js and Express
 
 ## 📫 How to Reach Me
@@ -91,4 +91,4 @@ Feel free to reach out for collaborations or just a chat!
 
 -   Email: [burhan.s.tinwala@gmail.com](mailto:burhan.s.tinwala@gmail.com)
 -   LinkedIn: [Burhanuddin Tinwala](https://www.linkedin.com/in/burhanuddintinwala)
--   Portfolio: [bst-portfolio.vercel.app](https://bst-portfolio.vercel.app)
+-   Portfolio: [burhanuddintinwala.me](https://burhanuddintinwala.me)

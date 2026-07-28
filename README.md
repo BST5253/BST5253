@@ -1,12 +1,12 @@
 # Hello, I'm Burhanuddin Tinwala a.k.a BST 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burhanuddintinwala)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://bst-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://burhanuddintinwala.me)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burhan.s.tinwala@gmail.com)
 
-## 💻 Full Stack Developer | A frontend dev by day, a backend dev by night
+## 💻 Full Stack Developer | Frontend by day, Backend & DevOps by night
 
-A **Computer Science Engineering** passout with 1 year of experience in frontend development. Currently working as a **Frontend Developer** at **WRTeam Pvt. Ltd**, where I build responsive and intuitive user interfaces that deliver exceptional user experiences.
+A **Computer Science Engineering** graduate with hands-on experience in full-stack web development, server administration, and production deployments. Currently working as a **Frontend Developer** at **WRTeam Pvt. Ltd**, building high-performance web applications, managing Linux server environments, and troubleshooting production deployments.
 
 ## 🚀 Tech Stack
 
@@ -37,6 +37,17 @@ A **Computer Science Engineering** passout with 1 year of experience in frontend
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 </p>
 
+### DevOps & Deployment
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
+  <img src="https://img.shields.io/badge/aaPanel-27A599?style=for-the-badge&logo=cpanel&logoColor=white" alt="aapanel"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/>
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="pm2"/>
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="hostinger"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/>
+</p>
+
 ### Tools & Others
 
 <p align="left">
@@ -44,29 +55,40 @@ A **Computer Science Engineering** passout with 1 year of experience in frontend
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="github-actions"/>
 </p>
 
 ## 🔭 Featured Projects
 
-### Project 1: A Full-Stack Chat Web App
+### Project 1: PRGuard AI
+
+An enterprise-ready, AI-powered Pull Request reviewer that analyzes Git diffs and delivers high-fidelity structured feedback with GitHub App, CLI tool, and web interface.
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BST5253/PRGuardAI)
+[![Preview](https://img.shields.io/badge/Preview-0078D7?style=flat-square&logo=microsoft-edge&logoColor=white)](https://pr-guard-ai.vercel.app/)
+
+### Project 2: A Full-Stack Chat Web App
 
 A full-featured chat application built with React, Node.js, and Socket.io.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BST5253/Chat_App_Frontend)
 [![Preview](https://img.shields.io/badge/Preview-0078D7?style=flat-square&logo=microsoft-edge&logoColor=white)](https://bst-chat-app.vercel.app)
 
-### Project 2: Blog App
+### Project 3: Blog App
 
 A React-based application for creating and managing blog posts, built with Node.js and Express for the backend.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BST5253/blog-app-frontend)
 [![Preview](https://img.shields.io/badge/Preview-0078D7?style=flat-square&logo=microsoft-edge&logoColor=white)](https://bst-blog-app.onrender.com)
 
-### Project 3: Personal Portfolio
+### Project 4: Personal Portfolio
 
 A responsive portfolio website built with Next.js and TailwindCSS.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BST5253/BST-Portfolio)
-[![Preview](https://img.shields.io/badge/Preview-0078D7?style=flat-square&logo=microsoft-edge&logoColor=white)](https://bst-portfolio.vercel.app)
+[![Preview](https://img.shields.io/badge/Preview-0078D7?style=flat-square&logo=microsoft-edge&logoColor=white)](https://burhanuddintinwala.me)
+
+## ⚡ Server & Deployment Capabilities
+
+- **Server Administration & Control Panels**: Deploying and managing web applications on Linux VPS (Hostinger / Cloud servers) using aaPanel.
+- **Reverse Proxy & Process Management**: Setting up Nginx domain routing, SSL certificates, PM2 daemon process management, and environment variables.
+- **Systematic Debugging & Performance**: Log analysis, server resource monitoring, troubleshooting deployment issues, and optimizing web performance.
 
 ## 📚 Education
 
